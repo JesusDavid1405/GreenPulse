@@ -17,7 +17,7 @@ namespace Data.Services
 
         public async Task<User?> Login(string emailOrUsername, string password)
         {
-            var user = await _context.Users
+            var user = await _context.User
                 .Where(u => !u.IsDeleted &&
                            (u.Username == emailOrUsername || u.Email == emailOrUsername) &&
                            u.Password == password)

@@ -1,0 +1,125 @@
+## =======================================
+## 🧱 .NET / ASP.NET Core / Visual Studio
+## =======================================
+
+# Compiled binaries
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.userprefs
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.VC.opendb
+
+# Build Results
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework migrations cache
+*Migrations/*_Snapshot.cs
+
+# Configuration
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Prevent secret keys or personal configs
+secrets.json
+*.secret.json
+
+# Publish folder
+/[Pp]ublish/
+/[Pp]ublished/
+/[Pp]ackage/
+/dist/
+/wwwroot/lib/
+
+# Node modules (if using frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# AutoMapper cache (if any generated files)
+*.generated.cs
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Coverage
+*.coverage
+*.coveragexml
+TestResult*/
+*.trx
+
+# Temp files
+~$*
+*.swp
+*.bak
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
+
+# Ignore environment
+.env
+.env.*
+
+# Backup files
+*.bak
+*.old
+
+# Git itself
+*.orig
+
+# Dump files
+*.dmp
+*.log
+*.trace
+
+# Rider/VS Indexes
+.vsconfig
+.vscode/
+.idea/

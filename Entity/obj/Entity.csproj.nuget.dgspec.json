@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj": {}
+    "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj": {
+    "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

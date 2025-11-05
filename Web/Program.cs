@@ -8,6 +8,7 @@ builder.Services.AddAutoMapperProfiles();
 builder.Services.AddRepositories();
 builder.Services.AddBusinessServices();
 builder.Services.AddCorsPolicy();
+builder.Services.AddJwtSettings(builder.Configuration);
 
 
 builder.Services.AddControllers();

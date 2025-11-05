@@ -20,7 +20,8 @@ namespace Entity.Models.Implements
         public int SensorDeviceId { get; set; }
         public SensorDevice SensorDevice { get; set; }
 
-        public ICollection<Notification> notifications { get; set; } = new List<Notification>();
+        public ICollection<Notification> Notifications { get; set; } = new List<Notification>();
+        public ICollection<SensorReading> SensorReadings { get; set; } = new List<SensorReading>();
 
     }
 }

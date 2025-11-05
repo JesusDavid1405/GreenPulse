@@ -20,21 +20,33 @@ namespace Entity.Infrastructure.Context
         {
             base.OnModelCreating(modelBuilder);
 
-            //modelBuilder.ApplyConfiguration(new PlantCategorySeeder());
-            //modelBuilder.ApplyConfiguration(new PlantSpeciesSeeder());
-            //modelBuilder.ApplyConfiguration(new UserSeeder());
-            //modelBuilder.ApplyConfiguration(new SensorDeviceSeeder());
-            //modelBuilder.ApplyConfiguration(new UserPlantSeeder());
-            //modelBuilder.ApplyConfiguration(new SensorReadingSeeder());
-            //modelBuilder.ApplyConfiguration(new NotificationSeeder());
+            modelBuilder.Entity<SensorReading>()
+                .HasOne(sr => sr.SensorDevice)
+                .WithMany(sd => sd.sensorReadings)
+                .HasForeignKey(sr => sr.SensorDeviceId)
+                .OnDelete(DeleteBehavior.Restrict); // ❌ Evita cascada
+
+            modelBuilder.Entity<SensorReading>()
+                .HasOne(sr => sr.UserPlant)
+                .WithMany(up => up.SensorReadings)
+                .HasForeignKey(sr => sr.UserPlantId)
+                .OnDelete(DeleteBehavior.Restrict); // ❌ Evita cascada
+
+            modelBuilder.ApplyConfiguration(new PlantCategorySeeder());
+            modelBuilder.ApplyConfiguration(new PlantSpeciesSeeder());
+            modelBuilder.ApplyConfiguration(new UserSeeder());
+            modelBuilder.ApplyConfiguration(new SensorDeviceSeeder());
+            modelBuilder.ApplyConfiguration(new UserPlantSeeder());
+            modelBuilder.ApplyConfiguration(new SensorReadingSeeder());
+            modelBuilder.ApplyConfiguration(new NotificationSeeder());
         }
 
-        public DbSet<User> Users { get; set; }
-        public DbSet<Notification> Notifications { get; set; }
-        public DbSet<UserPlant> UserPlants { get; set; }
+        public DbSet<PlantCategory> PlantCategory { get; set; }
+        public DbSet<SensorDevice> SensorDevice { get; set; }
+        public DbSet<User> User { get; set; }
+        public DbSet<Notification> Notification { get; set; }
+        public DbSet<UserPlant> UserPlant { get; set; }
         public DbSet<PlantSpecies> PlantSpecies { get; set; }
-        public DbSet<PlantCategory> PlantCategories { get; set; }
-        public DbSet<SensorDevice> SensorDevices { get; set; }
         public DbSet<SensorReading> sensorReading { get; set; }
         
     }

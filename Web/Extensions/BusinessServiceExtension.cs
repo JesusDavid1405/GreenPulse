@@ -1,4 +1,6 @@
-﻿using Business.Interfaces.Implements;
+﻿using Business.CustomJWT;
+using Business.Interfaces;
+using Business.Interfaces.Implements;
 using Business.Services;
 
 namespace Web.Extensions
@@ -9,6 +11,7 @@ namespace Web.Extensions
         {
             services.AddScoped<IUserServices, UserServices>();
             services.AddScoped<IAuthServices, AuthServices>();
+            services.AddScoped<IToken, TokenBusiness>();
             services.AddScoped<IUserPlantServices, UserPlantServices>();
             services.AddScoped<ISensorDeviceServices, SensorDeviceServices>();
             services.AddScoped<ISensorReadingServices, SensorReadingServices>();

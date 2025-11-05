@@ -15,6 +15,5 @@ namespace Entity.Models.Implements
         public string Role { get; set; }
 
         public ICollection<UserPlant> userPlants { get; set; }
-        public ICollection<Notification> notifications { get; set; }
     }
 }

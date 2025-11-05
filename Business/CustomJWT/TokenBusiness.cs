@@ -17,14 +17,12 @@ namespace Business.CustomJWT
 {
     public class TokenBusiness : IToken
     {
-        private readonly IToken _tokenService;
         private readonly IUserRepository _userRepository;
         private readonly JwtSettings _jwtSettings;
         private readonly ILogger<TokenBusiness> _logger;
 
-        public TokenBusiness(IToken tokenService, IUserRepository userRepository, JwtSettings jwtSettings, ILogger<TokenBusiness> logger)
+        public TokenBusiness( IUserRepository userRepository, JwtSettings jwtSettings, ILogger<TokenBusiness> logger)
         {
-            _tokenService = tokenService;
             _userRepository = userRepository;
             _jwtSettings = jwtSettings;
             _logger = logger;

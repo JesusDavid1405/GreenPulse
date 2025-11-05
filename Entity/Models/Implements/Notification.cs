@@ -10,8 +10,8 @@ namespace Entity.Models.Implements
     public class Notification : BaseModel
     {
 
-        public int? UserPlantId { get; set; }
-        public UserPlant? UserPlant { get; set; }
+        public int UserPlantId { get; set; }
+        public UserPlant UserPlant { get; set; }
 
         /// <summary>
         /// Nivel de la notificación (Info, Warning, Critical)

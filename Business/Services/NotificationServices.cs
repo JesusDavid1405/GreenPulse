@@ -2,6 +2,7 @@
 using Business.Interfaces.Implements;
 using Business.Repository;
 using Data.Interfaces.IDataBasic;
+using Data.Interfaces.IDataImplement;
 using Entity.DTOs.Implements.Notification;
 using Entity.Models.Implements;
 using System;
@@ -14,8 +15,12 @@ namespace Business.Services
 {
     public class NotificationServices : BusinessGeneric<NotificationSelectDto, NotificationCreateDto, Notification>, INotificationServices
     {
-        public NotificationServices(IDataBasic<Notification> data, IMapper mapper)
-            : base(data, mapper)
-        { }
+        private readonly INotificationRepository _notificationRepository;
+
+        public NotificationServices(INotificationRepository notificationRepository, IMapper mapper)
+            : base(notificationRepository, mapper)
+        {
+            _notificationRepository = notificationRepository;
+        }
     }
 }

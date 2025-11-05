@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Business\\Business.csproj": {}
+    "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Business\\Business.csproj": {
+    "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Data\\Data.csproj"
+              "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Data.csproj"
               },
-              "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj"
+              "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj"
               },
-              "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -63,7 +63,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[15.1.0, )"
+              "version": "[12.0.0, )"
             },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Data\\Data.csproj": {
+    "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Data\\obj\\",
+        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,11 +123,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj"
+              "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj"
               },
-              "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -193,14 +193,14 @@
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj": {
+    "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -309,14 +309,14 @@
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\Utilities.csproj",
+        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Utilities\\obj\\",
+        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -338,8 +338,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPuls\\Entity\\Entity.csproj"
+              "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Entity.csproj"
               }
             }
           }

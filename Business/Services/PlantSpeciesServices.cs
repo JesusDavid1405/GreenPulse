@@ -2,6 +2,8 @@
 using Business.Interfaces.Implements;
 using Business.Repository;
 using Data.Interfaces.IDataBasic;
+using Data.Interfaces.IDataImplement;
+using Data.Services;
 using Entity.DTOs.Implements.PlantSpecies;
 using Entity.Models.Implements;
 using System;
@@ -14,8 +16,12 @@ namespace Business.Services
 {
     public class PlantSpeciesServices : BusinessGeneric<PlantSpeciesSelectDto, PlantSpeciesCreateDto, PlantSpecies>, IPlantSpeciesServices
     {
-        public PlantSpeciesServices(IDataBasic<PlantSpecies> data,IMapper mapper)
+        private readonly IPlantSpeciesRepository _repository;
+
+        public PlantSpeciesServices(IPlantSpeciesRepository data,IMapper mapper)
             : base(data, mapper)
-        { }
+        {
+            _repository = data;
+        }
     }
 }
