@@ -15,8 +15,11 @@ namespace Business.Services
 {
     public class SensorReadingServices : BusinessGeneric<SensorReadingSelectDto, SensorReadingCreateDto, SensorReading>, ISensorReadingServices
     {
-        public SensorReadingServices(IDataBasic<SensorReading> data,IMapper mapper)
+        private readonly ISensorReadingRepository _repository;
+        public SensorReadingServices(ISensorReadingRepository data,IMapper mapper)
             : base(data, mapper)
-        { }
+        {
+            _repository = data;
+        }
     }
 }

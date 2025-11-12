@@ -10,7 +10,7 @@ namespace Entity.DTOs.Implements.PlantSpecies
     public class PlantSpeciesSelectDto : BaseDto
     {
         public int PlantCategoryId { get; set; }
-        public int PlantCategoryName { get; set; }
+        public string PlantCategoryName { get; set; }
 
         public string ScientificName { get; set; }
         public string CommonName { get; set; }

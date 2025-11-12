@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Entity.DTOs.Implements.Notification;
+using Entity.DTOs.Implements.PlantCategory;
 using Entity.DTOs.Implements.PlantSpecies;
 using Entity.DTOs.Implements.SensorDevice;
 using Entity.DTOs.Implements.SensorReading;
@@ -26,6 +27,8 @@ namespace Business.Mapping
             CreateMap<User, AuthDto>().ReverseMap();
             CreateMap<AuthDto, User>();
 
+            // 🔹 PlantCategory
+            CreateMap<PlantCategory, PlantCategoryDto>().ReverseMap();
 
             // 🔹 PLANT SPECIES
             CreateMap<PlantSpecies, PlantSpeciesSelectDto>()
@@ -60,7 +63,7 @@ namespace Business.Mapping
             // 🔹 SENSOR READING
             CreateMap<SensorReading, SensorReadingSelectDto>()
                 .ForMember(dest => dest.SensorDeviceName,
-                    opt => opt.MapFrom(src => src.SensorDevice != null ? src.SensorDevice.DeviceId : string.Empty))
+                    opt => opt.MapFrom(src => src.SensorDevice != null ? src.SensorDevice.Model : string.Empty))
                 .ForMember(dest => dest.UserPlantNickName,
                     opt => opt.MapFrom(src => src.UserPlant != null ? src.UserPlant.Nickname : string.Empty))
                 .ReverseMap();

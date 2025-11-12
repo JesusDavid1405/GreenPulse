@@ -3,28 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\data\\services\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|solutionrelative:data\\services\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\services\\sensorreadingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\sensorreadingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\module\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\module\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\services\\plantspeciesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\plantspeciesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\module\\plantspeciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\module\\plantspeciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\mapping\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\mapping\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\data\\services\\sensorreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|solutionrelative:data\\services\\sensorreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\data\\services\\plantspeciesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|solutionrelative:data\\services\\plantspeciesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\models\\implements\\userplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\userplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\module\\sensorreadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\module\\sensorreadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|solutionrelative:data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\extensions\\databaseserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\extensions\\databaseserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\repository\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\repository\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\dtos\\implements\\plantspecies\\plantspeciesselectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\implements\\plantspecies\\plantspeciesselectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\data\\services\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|solutionrelative:data\\services\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\services\\notificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\notificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\module\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\module\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\extensions\\businessserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\extensions\\businessserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\extensions\\repositoryserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\extensions\\repositoryserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\models\\implements\\plantspecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\plantspecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\models\\implements\\plantcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\plantcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\models\\implements\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\module\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\module\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\module\\sensordevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\module\\sensordevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\controllers\\module\\plantcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\controllers\\module\\plantcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\models\\implements\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\interfaces\\ibusinessbasic\\ibusinessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,40 +115,12 @@
       "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\userplantservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\models\\implements\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\mapping\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\mapping\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\entity\\models\\implements\\userplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\userplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\services\\sensorreadingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\sensorreadingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\services\\plantcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\plantcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\services\\plantspeciesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\services\\plantspeciesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{711E9CD6-51B4-4E0C-BB2B-86263C55B680}|Data\\Data.csproj|solutionrelative:data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\extensions\\databaseserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\extensions\\databaseserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -99,16 +151,8 @@
       "RelativeMoniker": "D:0:0:{D7C20B91-FEAF-4438-86FE-AF6C0EE93136}|Entity\\Entity.csproj|solutionrelative:entity\\models\\implements\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\extensions\\businessserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\extensions\\businessserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\customjwt\\tokenbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|solutionrelative:business\\customjwt\\tokenbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\web\\extensions\\repositoryserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91608D16-1935-48EA-B3D3-24D9C9EE69A6}|Web\\Web.csproj|solutionrelative:web\\extensions\\repositoryserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B13A10F5-1D59-4492-8CD7-00E3EF46B3A4}|Business\\Business.csproj|c:\\users\\aprendiz\\desktop\\reenpulse\\business\\interfaces\\implements\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,8 +173,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 242,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,72 +186,195 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificationServices.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\NotificationServices.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\NotificationServices.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\NotificationServices.cs",
-              "RelativeToolTip": "Business\\Services\\NotificationServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "BusinessGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Repository\\BusinessGeneric.cs",
+              "RelativeDocumentMoniker": "Business\\Repository\\BusinessGeneric.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Repository\\BusinessGeneric.cs",
+              "RelativeToolTip": "Business\\Repository\\BusinessGeneric.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAnwBkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:09:39.955Z",
+              "WhenOpened": "2025-11-05T16:28:29.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NotificationController.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\NotificationController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\Module\\NotificationController.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\NotificationController.cs",
-              "RelativeToolTip": "Web\\Controllers\\Module\\NotificationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "PlantSpeciesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Services\\PlantSpeciesRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PlantSpeciesRepository.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Services\\PlantSpeciesRepository.cs",
+              "RelativeToolTip": "Data\\Services\\PlantSpeciesRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:43:14.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PlantSpeciesServices.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\PlantSpeciesServices.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\PlantSpeciesServices.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\PlantSpeciesServices.cs",
-              "RelativeToolTip": "Business\\Services\\PlantSpeciesServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:10:03.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBusinessBasic.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:36:18.434Z",
+              "WhenOpened": "2025-11-05T22:01:29.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PlantSpeciesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\PlantSpeciesController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Module\\PlantSpeciesController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\PlantSpeciesController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Module\\PlantSpeciesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:08:40.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantSpeciesServices.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\PlantSpeciesServices.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\PlantSpeciesServices.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\PlantSpeciesServices.cs",
+              "RelativeToolTip": "Business\\Services\\PlantSpeciesServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:10:03.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SensorReadingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Services\\SensorReadingRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\SensorReadingRepository.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Services\\SensorReadingRepository.cs",
+              "RelativeToolTip": "Data\\Services\\SensorReadingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:35:38.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Mapping\\Map.cs",
+              "RelativeDocumentMoniker": "Business\\Mapping\\Map.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Mapping\\Map.cs",
+              "RelativeToolTip": "Business\\Mapping\\Map.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:36:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SensorReadingServices.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\SensorReadingServices.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\SensorReadingServices.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\SensorReadingServices.cs*",
+              "RelativeToolTip": "Business\\Services\\SensorReadingServices.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:10:05.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPlant.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\UserPlant.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Implements\\UserPlant.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\UserPlant.cs",
+              "RelativeToolTip": "Entity\\Models\\Implements\\UserPlant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:23:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorReadingController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\SensorReadingController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Module\\SensorReadingController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\SensorReadingController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Module\\SensorReadingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:12:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Repository\\DataGeneric.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\DataGeneric.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Repository\\DataGeneric.cs",
+              "RelativeToolTip": "Data\\Repository\\DataGeneric.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:28:57.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:13:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\DatabaseServiceExtension.cs",
+              "RelativeDocumentMoniker": "Web\\Extensions\\DatabaseServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\DatabaseServiceExtension.cs",
+              "RelativeToolTip": "Web\\Extensions\\DatabaseServiceExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:44:37.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Base\\BaseController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\Base\\BaseController.cs",
               "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Base\\BaseController.cs",
               "RelativeToolTip": "Web\\Controllers\\Base\\BaseController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T15:34:39.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
+              "Title": "PlantSpeciesSelectDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\DTOs\\Implements\\PlantSpecies\\PlantSpeciesSelectDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Implements\\PlantSpecies\\PlantSpeciesSelectDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\DTOs\\Implements\\PlantSpecies\\PlantSpeciesSelectDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Implements\\PlantSpecies\\PlantSpeciesSelectDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:50:25.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "NotificationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Services\\NotificationRepository.cs",
               "RelativeDocumentMoniker": "Data\\Services\\NotificationRepository.cs",
@@ -220,46 +387,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusinessGeneric.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Repository\\BusinessGeneric.cs",
-              "RelativeDocumentMoniker": "Business\\Repository\\BusinessGeneric.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Repository\\BusinessGeneric.cs",
-              "RelativeToolTip": "Business\\Repository\\BusinessGeneric.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB0AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "NotificationServices.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\NotificationServices.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\NotificationServices.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\NotificationServices.cs",
+              "RelativeToolTip": "Business\\Services\\NotificationServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T16:28:29.179Z",
+              "WhenOpened": "2025-11-12T17:54:04.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Entity\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAABGAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Module\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\NotificationController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Module\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T16:13:33.258Z",
+              "WhenOpened": "2025-11-12T18:12:55.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Map.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Mapping\\Map.cs",
-              "RelativeDocumentMoniker": "Business\\Mapping\\Map.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Mapping\\Map.cs",
-              "RelativeToolTip": "Business\\Mapping\\Map.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwD4AAAApAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "BusinessServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\BusinessServiceExtension.cs",
+              "RelativeDocumentMoniker": "Web\\Extensions\\BusinessServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\BusinessServiceExtension.cs",
+              "RelativeToolTip": "Web\\Extensions\\BusinessServiceExtension.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T16:36:40.02Z",
+              "WhenOpened": "2025-11-05T15:47:00.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
+              "Title": "RepositoryServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\RepositoryServiceExtension.cs",
+              "RelativeDocumentMoniker": "Web\\Extensions\\RepositoryServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\RepositoryServiceExtension.cs",
+              "RelativeToolTip": "Web\\Extensions\\RepositoryServiceExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:47:18.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlantSpecies.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\PlantSpecies.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Implements\\PlantSpecies.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\PlantSpecies.cs",
+              "RelativeToolTip": "Entity\\Models\\Implements\\PlantSpecies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:01:33.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlantCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\PlantCategory.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Implements\\PlantCategory.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\PlantCategory.cs",
+              "RelativeToolTip": "Entity\\Models\\Implements\\PlantCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:42:13.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\Notification.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Implements\\Notification.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\Notification.cs",
+              "RelativeToolTip": "Entity\\Models\\Implements\\Notification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:10:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Module\\UserController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Module\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:14:42.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SensorDeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\SensorDeviceController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Module\\SensorDeviceController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\SensorDeviceController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Module\\SensorDeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:10:20.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlantCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\PlantCategoryController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Module\\PlantCategoryController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Module\\PlantCategoryController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Module\\PlantCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:05:16.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Implements\\User.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\User.cs",
+              "RelativeToolTip": "Entity\\Models\\Implements\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:59:58.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBusinessBasic.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IBusinessBasic\\IBusinessBasic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:36:18.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "UserPlantServices.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\UserPlantServices.cs",
               "RelativeDocumentMoniker": "Business\\Services\\UserPlantServices.cs",
@@ -267,25 +547,11 @@
               "RelativeToolTip": "Business\\Services\\UserPlantServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:10:07.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T21:10:07.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\Notification.cs",
-              "RelativeDocumentMoniker": "Entity\\Models\\Implements\\Notification.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\Notification.cs",
-              "RelativeToolTip": "Entity\\Models\\Implements\\Notification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:10:44.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "PlantCategoryServices.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\PlantCategoryServices.cs",
               "RelativeDocumentMoniker": "Business\\Services\\PlantCategoryServices.cs",
@@ -293,25 +559,11 @@
               "RelativeToolTip": "Business\\Services\\PlantCategoryServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:10:05.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T21:10:05.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SensorReadingServices.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\SensorReadingServices.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\SensorReadingServices.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\SensorReadingServices.cs",
-              "RelativeToolTip": "Business\\Services\\SensorReadingServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:10:05.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "UserServices.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\UserServices.cs",
               "RelativeDocumentMoniker": "Business\\Services\\UserServices.cs",
@@ -319,25 +571,11 @@
               "RelativeToolTip": "Business\\Services\\UserServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:10:08.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T21:10:08.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DatabaseServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\DatabaseServiceExtension.cs",
-              "RelativeDocumentMoniker": "Web\\Extensions\\DatabaseServiceExtension.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\DatabaseServiceExtension.cs",
-              "RelativeToolTip": "Web\\Extensions\\DatabaseServiceExtension.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T16:44:37.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "AutoMapperServiceExtension.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\AutoMapperServiceExtension.cs",
               "RelativeDocumentMoniker": "Web\\Extensions\\AutoMapperServiceExtension.cs",
@@ -349,33 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DataGeneric.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Repository\\DataGeneric.cs",
-              "RelativeDocumentMoniker": "Data\\Repository\\DataGeneric.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Repository\\DataGeneric.cs",
-              "RelativeToolTip": "Data\\Repository\\DataGeneric.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T16:28:57.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserPlant.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\UserPlant.cs",
-              "RelativeDocumentMoniker": "Entity\\Models\\Implements\\UserPlant.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\UserPlant.cs",
-              "RelativeToolTip": "Entity\\Models\\Implements\\UserPlant.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T16:23:49.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Data\\Services\\UserRepository.cs",
               "RelativeDocumentMoniker": "Data\\Services\\UserRepository.cs",
@@ -387,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "Web.csproj",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Web.csproj",
               "RelativeDocumentMoniker": "Web\\Web.csproj",
@@ -399,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Program.cs",
               "RelativeDocumentMoniker": "Web\\Program.cs",
@@ -411,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "JwtSettingsExtension.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\JwtSettingsExtension.cs",
               "RelativeDocumentMoniker": "Web\\Extensions\\JwtSettingsExtension.cs",
@@ -423,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Entity\\Models\\Implements\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Entity\\Models\\Implements\\JwtSettings.cs",
@@ -435,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\appsettings.json",
               "RelativeDocumentMoniker": "Web\\appsettings.json",
@@ -447,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "TokenBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\CustomJWT\\TokenBusiness.cs",
               "RelativeDocumentMoniker": "Business\\CustomJWT\\TokenBusiness.cs",
@@ -459,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "AuthServices.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Services\\AuthServices.cs",
               "RelativeDocumentMoniker": "Business\\Services\\AuthServices.cs",
@@ -471,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "IAuthServices.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Business\\Interfaces\\Implements\\IAuthServices.cs",
               "RelativeDocumentMoniker": "Business\\Interfaces\\Implements\\IAuthServices.cs",
@@ -483,31 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RepositoryServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\RepositoryServiceExtension.cs",
-              "RelativeDocumentMoniker": "Web\\Extensions\\RepositoryServiceExtension.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\RepositoryServiceExtension.cs",
-              "RelativeToolTip": "Web\\Extensions\\RepositoryServiceExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:47:18.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BusinessServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\BusinessServiceExtension.cs",
-              "RelativeDocumentMoniker": "Web\\Extensions\\BusinessServiceExtension.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Extensions\\BusinessServiceExtension.cs",
-              "RelativeToolTip": "Web\\Extensions\\BusinessServiceExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:47:00.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "ICrudController.cs",
               "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\reenPulse\\Web\\Controllers\\Base\\ICrudController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\Base\\ICrudController.cs",
